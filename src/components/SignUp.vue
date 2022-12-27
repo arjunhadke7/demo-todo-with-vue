@@ -16,7 +16,7 @@
           type="text"
         />
 
-        <label class="block mt-6"> Email</label>
+        <label class="block mt-6"> Emailzz</label>
         <input
           v-model="email"
           class="w-full p-4 placeholder-gray-400 text-gray-700 bg-white text-lg border-0 border-b-2 border-gray-400 focus:ring-0 focus:border-gray-900"
