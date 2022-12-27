@@ -1,7 +1,7 @@
 <template>
   <div
     :class="[
-      `bg-${color}-500`,
+      `bg-${color}-400`,
       'text-white px-6 py-4 border-0 rounded absolute right-0 mt-10 mr-10',
     ]"
   >
