@@ -2,7 +2,7 @@
   <section
     class="container h-screen max-h-screen px-3 max-w-xl mx-auto flex flex-col"
   >
-    <div class="my-auto p-16 rounded-sm text-center">
+    <div class="my-auto p-14 rounded-sm text-center">
       <div class="font-bold text-3xl md:text-5xl lg:text-6xl">
         📝 <br />
         &nbsp; toTooooDoooos
